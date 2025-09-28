@@ -1,0 +1,13 @@
+- [x] Fix Contact.jsx: Remove emailjs import and usage, modify handleSubmit to simulate success
+- [x] Create BackToTop.jsx component with scroll-to-top button
+- [x] Add BackToTop component to App.jsx
+- [x] Create .env file for API base URL
+- [x] Revert Contact.jsx to simulation
+- [ ] Set up backend project structure (create backend/ directory, initialize Node.js project, install dependencies: express, mongoose, cors, dotenv, helmet, morgan)
+- [ ] Set up MongoDB database (create schemas for Project and Contact models)
+- [ ] Build API endpoints (GET /api/projects, POST /api/contacts)
+- [ ] Update frontend Projects.jsx to fetch data from API
+- [ ] Update frontend Contact.jsx to send data to API (replace EmailJS with API call for persistence)
+- [ ] Add environment configurations (.env for backend with MONGO_URI, PORT)
+- [ ] Test APIs and frontend integration
+- [ ] Deploy backend and frontend
