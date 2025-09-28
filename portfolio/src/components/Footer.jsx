@@ -17,7 +17,10 @@ const Footer = () => {
             >
               GitHub
             </a>
-            <a href="#" className="hover:text-purple-400 transition-colors">
+            <a
+              href="https://x.com/Md_Sohail_0"
+              className="hover:text-purple-400 transition-colors"
+            >
               Twitter
             </a>
           </div>
