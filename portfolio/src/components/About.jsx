@@ -7,15 +7,21 @@ const About = () => {
         </h2>
         <div className="max-w-3xl mx-auto text-center animate-slide-in-left">
           <p className="text-lg mb-6">
-            I am a passionate software engineer with expertise in full-stack
-            development, specializing in React, Node.js, and cloud technologies.
-            I love creating innovative solutions and bringing ideas to life
-            through code.
+            I am a passionate Software Engineer with expertise in Full-Stack
+            Development, specializing in React.js, Node.js, and MongoDB. I love
+            building innovative, scalable, and user-centric applications that
+            turn ideas into reality through clean and efficient code. Alongside
+            my web development skills, I have a strong foundation in Data
+            Structures and Algorithms (DSA) using Java, which helps me write
+            optimized, high-performance solutions to complex problems. I believe
+            mastering logic and system design is key to creating truly reliable
+            software.
           </p>
           <p className="text-lg">
-            With years of experience in the industry, I've worked on diverse
-            projects ranging from web applications to mobile apps, always
-            striving for clean, efficient, and scalable code.
+            With hands-on experience in developing dynamic web applications and
+            solving challenging programming problems, I continuously strive to
+            improve my craft and stay updated with the latest technologies in
+            the MERN ecosystem.
           </p>
         </div>
       </div>
