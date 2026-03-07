@@ -21,7 +21,7 @@ const Hero = () => {
           Let's Connect
         </a>
         <a
-          href="MdSoahil.pdf"
+          href="MD SOHAIL-Resume.pdf"
           target="_blank"
           rel="noopener noreferrer"
           className="inline-block ml-4 bg-gray-700 hover:bg-gray-800 text-white font-semibold px-8 py-3 rounded-md transition duration-300"
